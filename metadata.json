@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Gemini Slingshot",
+  "description": "Real-time multi-hand tracking and gesture classification telemetry powered by MediaPipe Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
